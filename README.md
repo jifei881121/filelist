@@ -19,15 +19,15 @@
 - 支持安装在子目录
 
 - 支持压缩包文件直接下载
+### 修复
+- 升级文档管理工具tinyfilemanager2.5.3
 
-### 预览
-
-![预览](assets/662c59be323dde7410af4ecf83f1a925.jpg)
+- 修复静态资源失效
 
 ### 使用方法
 
 进入后台访问账户：admin，密码：123456
 
-演示：http://filelist.uiisc.com/
+演示：http://cloud.serfei.top:81/
 
-源码：[http://filelist.uiisc.com/?dir=/release](http://filelist.uiisc.com/?dir=/release)
+
