@@ -24,8 +24,8 @@ function fix_footer(){
 }
 fix_footer()
 </script>
-<script src="//cdn.staticfile.org/jquery/3.6.1/jquery.min.js"></script>
-<script src="//cdn.staticfile.org/twitter-bootstrap/4.6.1/js/bootstrap.min.js"></script>
-<script src="//cdn.staticfile.org/jquery.qrcode/1.0/jquery.qrcode.min.js"></script>
-<script src="//cdn.staticfile.org/layer/3.1.1/layer.js"></script>
+<script src="//cdn.bootcdn.net/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+<script src="//cdn.bootcdn.net/ajax/libs/twitter-bootstrap/4.6.1/js/bootstrap.min.js"></script>
+<script src="//cdn.bootcdn.net/ajax/libs/jquery.qrcode/1.0/jquery.qrcode.min.js"></script>
+<script src="//cdn.bootcdn.net/ajax/libs/layer/3.1.1/layer.js"></script>
 <script src="./_dir/static/js/clipBoard.min.js"></script>
