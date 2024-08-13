@@ -40,7 +40,7 @@ jobs:
         
         git clone --depth=1 https://github.com/jifei881121/filelist /opt/filelist
         cd /opt/filelist
-        tar -czvf dirlist1.4.tar.gz /opt/filelist/
+        tar -czvf filelist1.0.3.tar.gz /opt/filelist/
                      
     - name: Generate release tag
       id: tag
