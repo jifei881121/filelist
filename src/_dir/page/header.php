@@ -20,9 +20,9 @@ foreach ($navs as $nav) {
     <title><?php echo $conf['title'] ?></title>
     <meta name="keywords" content="<?php echo $conf['keywords'] ?>" />
     <meta name="description" content="<?php echo $conf['description'] ?>" />
-    <link rel="stylesheet" href="//cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="//cdn.staticfile.org/twitter-bootstrap/4.6.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="//cdn.staticfile.org/github-markdown-css/5.1.0/github-markdown.min.css">
+    <link rel="stylesheet" href="//cdn.bootcdn.net/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="//cdn.bootcdn.net/ajax/libs/twitter-bootstrap/4.6.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//cdn.bootcdn.net/ajax/libs/github-markdown-css/5.1.0/github-markdown.min.css">
     <link rel='stylesheet' href='./_dir/static/css/style.css?v=1002'>
     <link rel="icon shortcut" href="./_dir/static/images/favicon.ico" mce_href="./_dir/static/images/favicon.ico" type="image/x-icon">
 </head>
