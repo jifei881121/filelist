@@ -18,8 +18,8 @@ header('Content-Type: text/html; charset=UTF-8');
 
 <body>
     <div id="aplayer"></div>
-    <?php if ($ext == 'm3u8') {?><script src="//cdn.staticfile.org/hls.js/1.2.4/hls.min.js"></script><?php }?>
-    <script src="//cdn.staticfile.org/aplayer/1.10.1/APlayer.min.js"></script>
+    <?php if ($ext == 'm3u8') {?><script src="//cdn.bootcdn.net/ajax/libs/hls.js/1.2.4/hls.min.js"></script><?php }?>
+    <script src="//cdn.bootcdn.net/ajax/libs/aplayer/1.10.1/APlayer.min.js"></script>
     <script type="text/javascript">
         var ap = new APlayer({
             container: document.getElementById('aplayer'),
